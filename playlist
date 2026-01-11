@@ -166,10 +166,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRI2.id" tvg-name="TVRI2" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-name="BeIN Sports XTRA" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",BeIN Sports XTRA (1080p)
+#EXTINF:-1 tvg-name="BeIN Sports XTRA" tvg-name="" tvg-logo="https://raw.githubusercontent.com/androstb/tv/refs/heads/main/Logo/beinsport%20extra.png" group-title="Sport",BeIN Sports XTRA (1080p)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",BeIN Sports 1
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/androstb/tv/refs/heads/main/Logo/beinsport1.png" group-title="Sport",BeIN Sports 1
 https://androstb.github.io/id/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
