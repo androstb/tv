@@ -170,7 +170,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/androstb/tv/refs/heads/main/Logo/beinsport1.png" group-title="Sport",BeIN Sports 1
-https://androstb.github.io/id/offline.m3u8
+https://androstb.github.io/id/no_signal.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
