@@ -160,7 +160,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 ==============SPORT==============
-#EXTINF:-1 tvg-chno="9" tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Astro-Logo-500x281.png" group-title="Sport",Astro Premier League
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Astro-Logo-500x281.png" group-title="Sport",Astro Premier League
 http://109.61.81.147:1935/cdn7/4612/mpegts?token=856c055d95cdb7bedfa41be7b71b119c
 
 #EXTINF:-1 tvg-id="TVRI1.id" tvg-name="TVRI1" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",TVRI WORLD
@@ -298,9 +298,6 @@ https://streameast.asia/playlist/stream_7.m3u8?md5=fbVhFmes4A0Y8rgao38EtQ&expire
 http://205.237.104.133/hls/IJIJIJQ.m3u8
 
 
-
-#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="XXX",Adult Swim
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
 
 
