@@ -190,7 +190,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/1847
 #EXTINF:-1 tvg-chno="90" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="Sport",Marquee Sports Network
 http://cord-cutter.net:8080/k4Svp2/645504/13379
 
-#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="SportS" radio="false",Fox Sports 501 FHD
+#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="Sport" radio="false",Fox Sports 501 FHD
 https://a1xs.vip/700001
 #EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="Sport" radio="false",Fox Sports 502 FHD
 https://a1xs.vip/700002
