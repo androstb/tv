@@ -160,6 +160,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 ==============SPORT==============
+#EXTINF:-1 tvg-chno="9" tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Astro-Logo-500x281.png" group-title="Sport",Astro Premier League
+http://109.61.81.147:1935/cdn7/4612/mpegts?token=856c055d95cdb7bedfa41be7b71b119c
 
 #EXTINF:-1 tvg-id="TVRI1.id" tvg-name="TVRI1" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -172,6 +174,21 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/androstb/tv/refs/heads/main/Logo/beinsport1.png" group-title="Sport",BeIN Sports 1
 https://androstb.github.io/id/no_signal.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sport",ESPN
+http://cord-cutter.net:8080/k4Svp2/645504/14197
+
+#EXTINF:-1 tvg-chno="46" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sport",ESPN2
+http://cord-cutter.net:8080/k4Svp2/645504/2210
+
+#EXTINF:-1 tvg-chno="64" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Sport",Fox Sports 1
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="Sport",Fox Sports 2
+http://cord-cutter.net:8080/k4Svp2/645504/1847
+
+#EXTINF:-1 tvg-chno="90" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="Sport",Marquee Sports Network
+http://cord-cutter.net:8080/k4Svp2/645504/13379
 
 ==============MOVIE==============
 #KODIPROP:inputstream.adaptive.license_type=clearkey
