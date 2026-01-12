@@ -299,7 +299,8 @@ http://205.237.104.133/hls/IJIJIJQ.m3u8
 
 
 
-
+#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="XXX",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
 
 
