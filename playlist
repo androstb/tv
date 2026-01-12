@@ -158,6 +158,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-id="EBS KIDS" tvg-name="EBS KIDS" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/ebs.jfif" group-title="KIDS",EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
+==============Movie==============
+#EXTINF:-1 tvg-name="HBO"  tvg-logo="https://raw.githubusercontent.com/androstb/tv/refs/heads/main/Logo/beinsport%20extra.png" group-title="Sport",HBO
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 ==============SPORT==============
 
 #EXTINF:-1 tvg-id="TVRI1.id" tvg-name="TVRI1" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sport",TVRI WORLD
