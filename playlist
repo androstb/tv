@@ -190,66 +190,48 @@ http://cord-cutter.net:8080/k4Svp2/645504/1847
 #EXTINF:-1 tvg-chno="90" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="Sport",Marquee Sports Network
 http://cord-cutter.net:8080/k4Svp2/645504/13379
 
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 (TTNET ÖZEL)
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/334642
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 SD [480p]
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/35762
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 720p
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/351541
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 HD [VIP]
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/98925
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 FHD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/126272
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 VIP H265
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/190072
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 4K [Feed]
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/35650
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 8K [Feed]
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/191152
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 HD (Kutu Yayin)
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/456568
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Sport",|TR| beIN Sports 1 HD (BoX)
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/456567
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Sport",|TR| beIN Sports 2 SD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/196216
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Sport",|TR| beIN Sports 2 HD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/35730
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Sport",|TR| beIN Sports 2 UHD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/195811
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Sport",|TR| beIN Sports 3 SD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/196217
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Sport",|TR| beIN Sports 3 HD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/6097
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Sport",|TR| beIN Sports 3 UHD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/195812
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Sport",|TR| beIN Sports 4 SD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/196218
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Sport",|TR| beIN Sports 4 HD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/6098
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Sport",|TR| beIN Sports 4 UHD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/195813
-#EXTINF:-1 tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Sport",|TR| beIN Sports 5 HD
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/125936
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Sport",|TR| beIN Sports Max 1
-http://zafertv85.shop:8080/cimilak1903/eYfyWTppkU/6099
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="Sport",|TR| beIN Sports Max 2
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 1 HD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 1 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 FHD (hevc)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 1 FHD (hevc)
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 2 HD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 2 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 2 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 3 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 3 HD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 3 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 3 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 4 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 4 HD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 4 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Sport",Tr: BEIN Sports 4 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Sport",Tr: BEIN Sports 5 HD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 5 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Sport",Tr: BEIN Sports 5 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports MAX 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="Sport",Tr: BEIN Sports MAX 1 FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports MAX 2 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" group-title="Sport",Tr: BEIN Sports MAX 2 | TR FHD
+http://4k.super1.club:8080//live/grkm58/4VFhkYwz/447249.ts
 
 ==============MOVIE==============
 
 #EXTINF:-1 tvg-chno="79" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movie",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movie",HBO 2
-http://fl1.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-chno="81" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="Movie",HBO Comedy
-http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-chno="82" tvg-id="HBO.Drama.us2" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Movie",HBO Family
-https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-chno="83" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movie",HBO Zone
-https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movie",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="Movie",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movie",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Movie",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="Movie",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mp
 
 ==============KNOWLEDGE==============
 
