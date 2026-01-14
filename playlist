@@ -49,7 +49,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="BALITV.id" tvg-name="BALITV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="ID | Nasional",BALI TV
+#EXTINF:-1 tvg-id="BALITV.id" tvg-name="BALITV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="ID | Nasional",BALI TV HD
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
