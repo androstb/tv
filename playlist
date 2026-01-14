@@ -44,12 +44,12 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="KOMPASTV.id" tvg-name="KOMPASTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="ID  | Nasional",KOMPAS TV
+#EXTINF:-1 tvg-id="KOMPASTV.id" tvg-name="KOMPASTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="ID | Nasional",KOMPAS TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="BALITV.id" tvg-name="BALITV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="ID  | Nasional",BALI TV
+#EXTINF:-1 tvg-id="BALITV.id" tvg-name="BALITV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="ID | Nasional",BALI TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
@@ -170,7 +170,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Movie",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="ASIA | INDONESIA VIP",IDS: CINEMAX VIP
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="Movie",IDS: CINEMAX VIP
 http://vipboacnn.top:8080/VIP01688171535401176/a08e3db6cc37/34355
 
 ==============KNOWLEDGE==============
@@ -626,7 +626,7 @@ http://vipboacnn.top:8080/VIP01688171535401176/a08e3db6cc37/34681
 http://vipboacnn.top:8080/VIP01688171535401176/a08e3db6cc37/34682
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vinmeen" tvg-logo="" group-title="MY | Malaysia ",MY: Astro Vinmeen
 http://vipboacnn.top:8080/VIP01688171535401176/a08e3db6cc37/34683
-#EXTINF:-1 tvg-id="" tvg-name="PH: UNTV VIP" tvg-logo="" group-title="ASIA | PHILIPPINES VIP",PH: UNTV VIP
+#EXTINF:-1 tvg-id="" tvg-name="PH: UNTV VIP" tvg-logo="" group-title="PH | PHILIPPINES VIP",PH: UNTV VIP
 http://vipboacnn.top:8080/VIP01688171535401176/a08e3db6cc37/34684
 
 
